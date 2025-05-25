@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Błażej Ostaszewski</h1>
+<h1 align="center">Hi, I'm Błażej Ostaszewski</h1>
 <h3 align="center">A passionate Computer Science student from Poland</h3>
-
-- 🔭 I’m currently working on [Chinese-Tea-Shop-Simulation-Project](https://github.com/Blazejost/Chinese-Tea-Shop-Simulation-Project)
-
-- 🌱 I’m currently learning **c# and data science**
 
 <p align="left">
 </p>
