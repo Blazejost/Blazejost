@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Błażej Ostaszewski</h1>
 <h3 align="center">A passionate Computer Science student from Poland</h3>
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
