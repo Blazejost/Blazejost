@@ -18,4 +18,4 @@
   </a>
 </p>
 
-![snake gif](https://github.com/Blazejost/Blazejost/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Blazejost/Blazejost/blob/output/github-snake.svg)
