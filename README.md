@@ -17,3 +17,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
+![snake gif](https://github.com/Blazejost/Blazejost/blob/output/github-snake-dark.svg)
