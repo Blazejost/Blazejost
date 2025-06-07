@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Hi, I'm Błażej Ostaszewski - Computer Science Student" />
+  <img src="banner.png" alt="Hi, I'm Błażej Ostaszewski - Computer Science Student" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
