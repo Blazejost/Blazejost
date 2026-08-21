@@ -78,7 +78,7 @@ I specialize in designing, optimizing, and rapidly shipping software solutions t
 
 ### 🚀 Featured Projects
 
-- **[Autonomous Newsroom](https://github.com/Blazejost](https://github.com/Blazejost/autonomous-newsroom)** — Multi-Agent System (FastAPI, GPT-4o-mini, Pydantic) with an Orchestrator feedback loop coordinating Researcher/Writer/Editor agents; 95%+ data integrity via strict schema validation.
+- **[Autonomous Newsroom](https://github.com/Blazejost/autonomous-newsroom)** — Multi-Agent System (FastAPI, GPT-4o-mini, Pydantic) with an Orchestrator feedback loop coordinating Researcher/Writer/Editor agents; 95%+ data integrity via strict schema validation.
 - **[RAG Document Chat](https://github.com/Blazejost/rag-document-chat)** — End-to-end Retrieval-Augmented Generation system for PDF analysis (LangChain, Gemini, ChromaDB), with fully automated CI/CD via GitHub Actions.
 - **[Disease Spread Simulation & Prediction](https://github.com/Blazejost/disease-spread-simulation)** — Agent-based epidemiological simulation (SIR model, 500+ agents) with a Random Forest regressor predicting infection peaks (R² ≈ 0.95).
 - **[Market Basket Analysis & RFM Segmentation](https://github.com/Blazejost/Data-Mining-Project)** — Analysis of 540k+ transactions using K-Means, RFM segmentation, and the Apriori algorithm to extract high-lift association rules.
