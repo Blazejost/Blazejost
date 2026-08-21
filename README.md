@@ -19,7 +19,7 @@ I'm a Computer Science student (**Data Science / Machine Learning**) at the **Si
 
 I specialize in designing, optimizing, and rapidly shipping software solutions through **AI-Driven Development**, and in managing the lifecycle of AI-powered products. I combine a solid analytical/ML foundation with a business-oriented mindset — which lets me move fluidly between the roles of **AI Engineer**, **AI-Driven Full Stack Developer**, and **Product Manager**, delivering production-ready solutions in a fraction of the time of a traditional dev cycle.
 
-- 🔭 Currently a **Machine Learning Intern** at **Łukasiewicz Research Network – AI Center**, building an open-source pipeline for Continuous Sign Language Recognition (CV + time-series deep learning).
+- 🔭 Currently a Machine Learning Intern at Łukasiewicz Research Network – AI Center, building an autonomous VLA Agent for healthcare (Python, Ollama, Computer Vision, STT) capable of visually parsing and navigating GUIs without DOM/API access.
 - 💼 Previously an **AI Development Intern** at **New Europe Foundation**, where I shipped **7+ production web apps** for NGO clients using Claude-assisted development, cutting delivery time by ~70%.
 - 🌱 Currently deepening my expertise in **Multi-Agent Systems, RAG, and Agentic Workflows**.
 - 📫 Reach me at **blazejostaszewski@gmail.com**
