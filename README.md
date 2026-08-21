@@ -54,19 +54,18 @@ I specialize in designing, optimizing, and rapidly shipping software solutions t
 `LangGraph` · `RAG` · `Agentic Workflows` · `Multi-Agent Systems` · `Prompt Engineering` · `Text Embeddings`
 
 **Machine Learning & Data**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-`Polars` · `Matplotlib` · `Seaborn` · `TCN` · `BiLSTM` · `Time-Series Analysis` · `PCA` · `RFM Analysis`
+`Polars` · `Matplotlib` · `Seaborn` · `TCN` · `Time-Series Analysis` · `PCA` · `RFM Analysis`
 
 **Computer Vision**
 `MediaPipe` · `OpenPose` · `DWPose` · `Skeletal Feature Extraction`
 
 **GenAI & Rapid Prototyping**
-`AI-Assisted Development (Vibe Coding)` · `Lovable.dev` · `Midjourney` · `Eleven Labs` · `Suno AI`
+`AI-Assisted Development` · `Lovable.dev` · `Antigravity` · `AI Studio` 
 
 **Tools & DevOps**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -79,10 +78,10 @@ I specialize in designing, optimizing, and rapidly shipping software solutions t
 
 ### 🚀 Featured Projects
 
-- **[Autonomous Newsroom](https://github.com/Blazejost)** — Multi-Agent System (FastAPI, GPT-4o-mini, Pydantic) with an Orchestrator feedback loop coordinating Researcher/Writer/Editor agents; 95%+ data integrity via strict schema validation.
-- **RAG Document Chat** — End-to-end Retrieval-Augmented Generation system for PDF analysis (LangChain, Gemini, ChromaDB), with fully automated CI/CD via GitHub Actions.
-- **Disease Spread Simulation & Prediction** — Agent-based epidemiological simulation (SIR model, 500+ agents) with a Random Forest regressor predicting infection peaks (R² ≈ 0.95).
-- **Market Basket Analysis & RFM Segmentation** — Analysis of 540k+ transactions using K-Means, RFM segmentation, and the Apriori algorithm to extract high-lift association rules.
+- **[Autonomous Newsroom]([https://github.com/Blazejost](https://github.com/Blazejost/autonomous-newsroom))** — Multi-Agent System (FastAPI, GPT-4o-mini, Pydantic) with an Orchestrator feedback loop coordinating Researcher/Writer/Editor agents; 95%+ data integrity via strict schema validation.
+- **[RAG Document Chat]([https://github.com/Blazejost/rag-document-chat))** — End-to-end Retrieval-Augmented Generation system for PDF analysis (LangChain, Gemini, ChromaDB), with fully automated CI/CD via GitHub Actions.
+- **[Disease Spread Simulation & Prediction]([https://github.com/Blazejost/disease-spread-simulation))** — Agent-based epidemiological simulation (SIR model, 500+ agents) with a Random Forest regressor predicting infection peaks (R² ≈ 0.95).
+- **[Market Basket Analysis & RFM Segmentation]([https://github.com/Blazejost/Data-Mining-Project))** — Analysis of 540k+ transactions using K-Means, RFM segmentation, and the Apriori algorithm to extract high-lift association rules.
 
 > 📌 Update the links above with the actual repo URLs for each project.
 
@@ -99,10 +98,5 @@ I specialize in designing, optimizing, and rapidly shipping software solutions t
 - Certificate in Advanced English (CAE – C1) — Cambridge (07/2023)
 
 ---
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/blazejostaszewski">LinkedIn</a> ·
-  <a href="mailto:blazejostaszewski@gmail.com">Email</a>
-</p>
 
 ![snake gif](https://github.com/Blazejost/Blazejost/blob/output/github-snake-dark.svg)
